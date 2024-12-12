@@ -1,0 +1,43 @@
+.mavi-navbar {
+    background-color: #2C3D4F;
+}
+
+.yesil-alan {
+    background-color: #19BC9B;
+    padding-top: 25vh;
+}
+
+.baslik {
+    font-size: 4rem;
+}
+
+.portfolio-baslik {
+    font-size: 3rem;
+    color: #2C3D4F;
+}
+
+.about {
+    background-color: #19BC9B;
+}
+
+.about-baslik {
+    font-size: 3rem;
+}
+
+.btn-outline-light {
+    outline-style: solid;
+    width: 200px;
+}
+
+.footer {
+    background-color: #2C3D4F;
+}
+
+.yonlendir {
+    color: #19BC9B;
+}
+
+.copyright {
+    background-color: #1A252F;
+}
+
